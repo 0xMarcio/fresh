@@ -8,14 +8,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Fresh</title>
 
-    <link rel="icon" type="image/png" href="img/favicon.png" />
+    <link rel="icon" type="image/png" href="/themes/fresh/img/favicon.png" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="/themes/fresh/css/app.css">
+    <link rel="stylesheet" type="text/css" href="/themes/fresh/css/main.css">
 </head>
 
 <body>
@@ -29,7 +29,7 @@
             <div class="container">
                 <div class="navbar-brand">
                     <a class="navbar-item" href="https://cssninja.io">
-                        <img src="img/logo/fresh-alt.svg" alt="" width="112" height="28">
+                        <img src="/themes/fresh/img/logo/fresh-alt.svg" alt="" width="112" height="28">
                     </a>
         
                     <a @click="openSidebar()" class="navbar-item is-hidden-desktop is-hidden-tablet">
@@ -114,7 +114,7 @@
             <div class="container">
                 <div class="navbar-brand">
                     <a class="navbar-item" href="https://cssninja.io">
-                        <img src="img/logo/fresh-alt.svg" alt="" width="112" height="28">
+                        <img src="/themes/fresh/img/logo/fresh-alt.svg" alt="" width="112" height="28">
                     </a>
         
                     <a @click="openSidebar()" class="navbar-item is-hidden-desktop is-hidden-tablet">
@@ -206,7 +206,7 @@
                     </div>
                     <div class="column is-5">
                         <figure class="image is-4by3">
-                            <img src="img/illustrations/worker.svg" alt="Description">
+                            <img src="/themes/fresh/img/illustrations/worker.svg" alt="Description">
                         </figure>
                     </div>
     
@@ -218,11 +218,11 @@
             <div class="container">
                 <div class="tabs is-centered">
                     <ul>
-                        <li><a><img class="partner-logo" src="img/logo/clients/systek.svg"></a></li>
-                        <li><a><img class="partner-logo" src="img/logo/clients/tribe.svg"></a></li>
-                        <li><a><img class="partner-logo" src="img/logo/clients/kromo.svg"></a></li>
-                        <li><a><img class="partner-logo" src="img/logo/clients/infinite.svg"></a></li>
-                        <li><a><img class="partner-logo" src="img/logo/clients/gutwork.svg"></a></li>
+                        <li><a><img class="partner-logo" src="/themes/fresh/img/logo/clients/systek.svg"></a></li>
+                        <li><a><img class="partner-logo" src="/themes/fresh/img/logo/clients/tribe.svg"></a></li>
+                        <li><a><img class="partner-logo" src="/themes/fresh/img/logo/clients/kromo.svg"></a></li>
+                        <li><a><img class="partner-logo" src="/themes/fresh/img/logo/clients/infinite.svg"></a></li>
+                        <li><a><img class="partner-logo" src="/themes/fresh/img/logo/clients/gutwork.svg"></a></li>
                     </ul>
                 </div>
             </div>
@@ -245,7 +245,7 @@
                                 <h4>App builder</h4>
                             </div>
                             <div class="card-icon">
-                                <img src="img/icons/web.svg">
+                                <img src="/themes/fresh/img/icons/web.svg">
                             </div>
                             <div class="card-text">
                                 <p>This is some cool explanatory text that is on two rows</p>
@@ -261,7 +261,7 @@
                                 <h4>Cloud integration</h4>
                             </div>
                             <div class="card-icon">
-                                <img src="img/icons/rocket.svg">
+                                <img src="/themes/fresh/img/icons/rocket.svg">
                             </div>
                             <div class="card-text">
                                 <p>This is some explanatory text that is on two rows</p>
@@ -277,7 +277,7 @@
                                 <h4>Addons & Plugins</h4>
                             </div>
                             <div class="card-icon">
-                                <img src="img/icons/light-bulb.svg">
+                                <img src="/themes/fresh/img/icons/light-bulb.svg">
                             </div>
                             <div class="card-text">
                                 <p>This is some explanatory text that is on two rows</p>
@@ -306,13 +306,13 @@
                     <p class="subtitle is-5 is-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum audissem Antiochum, Brute, ut solebam, cum M. Quae diligentissime contra Aristonem dicuntur a Chryippo.</p>
                 </div>
                 <div class="column is-5">
-                    <img src="img/illustrations/features/feature-1.png" alt="">
+                    <img src="/themes/fresh/img/illustrations/features/feature-1.png" alt="">
                 </div>
             </div>
     
             <div class="columns is-vcentered side-feature mt-60">
                 <div class="column is-5 is-offset-1">
-                    <img src="img/illustrations/features/feature-2.png" alt="">
+                    <img src="/themes/fresh/img/illustrations/features/feature-2.png" alt="">
                 </div>
                 <div class="column is-4 is-offset-1">
                     <h3 class="title is-3 mb-10 is-title-reveal">Collaborate easily</h3>
@@ -332,7 +332,7 @@
                 </div>
                 <div class="column is-10">
                     <div class="has-text-centered">
-                        <img class="pushed-image" src="img/illustrations/mockups/app-mockup.png">
+                        <img class="pushed-image" src="/themes/fresh/img/illustrations/mockups/app-mockup.png">
                     </div>
                 </div>
             </div>
@@ -479,7 +479,7 @@
                                 Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
                             </blockquote>
                             <div class="author">
-                                <img src="img/illustrations/faces/1.png" alt=""/>
+                                <img src="/themes/fresh/img/illustrations/faces/1.png" alt=""/>
                                 <h5>Irma Walters</h5><span>Accountant</span>
                             </div>
                         </figure>
@@ -490,7 +490,7 @@
                                 Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
                             </blockquote>
                             <div class="author">
-                                <img src="img/illustrations/faces/2.png" alt=""/>
+                                <img src="/themes/fresh/img/illustrations/faces/2.png" alt=""/>
                                 <h5>John Bradley</h5><span>Financial Analyst</span>
                             </div>
                         </figure>
@@ -501,7 +501,7 @@
                                 Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
                             </blockquote>
                             <div class="author">
-                                <img src="img/illustrations/faces/3.png" alt=""/>
+                                <img src="/themes/fresh/img/illustrations/faces/3.png" alt=""/>
                                 <h5>Gary Blackman</h5><span>HR Manager</span>
                             </div>
                         </figure>
@@ -522,7 +522,7 @@
             <div class="pricing-wrap">
                 <div class="feature-card is-pricing has-text-centered">
                     <h3 class="plan-name">Starter</h3>
-                    <img src="img/illustrations/pricing/1.svg" alt=""/>
+                    <img src="/themes/fresh/img/illustrations/pricing/1.svg" alt=""/>
                     <div class="price">
                         0
                     </div>
@@ -531,7 +531,7 @@
                 </div>
                 <div class="feature-card is-pricing has-text-centered">
                     <h3 class="plan-name">Pro</h3>
-                    <img src="img/illustrations/pricing/2.svg" alt=""/>
+                    <img src="/themes/fresh/img/illustrations/pricing/2.svg" alt=""/>
                     <div class="price">
                         15
                     </div>
@@ -540,7 +540,7 @@
                 </div>
                 <div class="feature-card is-pricing has-text-centered">
                     <h3 class="plan-name">Business</h3>
-                    <img src="img/illustrations/pricing/3.svg" alt=""/>
+                    <img src="/themes/fresh/img/illustrations/pricing/3.svg" alt=""/>
                     <div class="price">
                         30
                     </div>
@@ -639,7 +639,7 @@
             <div class="columns">
                 <div class="column">
                     <div class="footer-logo">
-                        <img src="img/logo/fresh-white-alt.svg">
+                        <img src="/themes/fresh/img/logo/fresh-white-alt.svg">
                     </div>
                 </div>
                 <div class="column">
@@ -711,7 +711,7 @@
                             </nav>
     
                             <a href="https://bulma.io" target="_blank">
-                                <img src="img/logo/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
+                                <img src="/themes/fresh/img/logo/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
                             </a>
                         </div>
                     </div>
@@ -728,7 +728,7 @@
             '': !$store.app.isSiderbarOpen
         }">
         <div class="sidebar-header">
-            <img src="img/logo/fresh-square.svg">
+            <img src="/themes/fresh/img/logo/fresh-square.svg">
             <a @click="closeSidebar()" class="sidebar-close" href="javascript:void(0);"><i data-feather="x"></i></a>
         </div>
         <div class="inner">
@@ -792,7 +792,7 @@
         </div>
     </div>
     <script type="module" src="https://unpkg.com/ionicons@5.0.0/dist/ionicons/ionicons.esm.js"></script>
-    <script src="js/bundle.js"></script>
+    <script src="/themes/fresh/js/bundle.js"></script>
 
 </body>
 
