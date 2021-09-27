@@ -1,3 +1,4 @@
+<?php global $Cms ?>
 <!DOCTYPE html>
 <html lang="en">
 
